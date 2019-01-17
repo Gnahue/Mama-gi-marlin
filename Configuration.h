@@ -381,7 +381,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = false; // set to true to invert the logic o
 
 //Prusa I3
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {80, 80, 2560, 102} // Pololu A4998
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {160, 160, 800, 1037}  // Pololu DRV8825
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {160, 160, 800, 1047}  // Pololu DRV8825
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {80, 160, 5120, 185} //PRINTBOX Z 0.9
 
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {78.7402,78.7402,200.0*8/3,760*1.1}  // default steps per unit for Ultimaker
